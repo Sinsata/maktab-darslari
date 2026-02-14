@@ -1,4 +1,4 @@
-# 🖥️ 1-TechnoRing6
+# 🖥️ 1-TechnoRing7
 _Informatika fanidan qiziqarli savol-javob o‘yini_
 
 ---
