@@ -3,9 +3,12 @@
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/username)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://instagram.com/username)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@username)
+## 🌐 Ijtimoiy tarmoqlar va sayt
+
+[![Website](https://img.shields.io/badge/Web%20Sayt-sinsata.netlify.app-0A66C2?style=for-the-badge&logo=google-chrome)](https://sinsata.netlify.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-sinsata__channel-blue?style=for-the-badge&logo=telegram)](https://t.me/sinsata_channel)
+[![YouTube](https://img.shields.io/badge/YouTube-sinsata6360-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sinsata6360)
+[![Instagram](https://img.shields.io/badge/Instagram-sinsata__it__akademy-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/sinsata_it_akademy)
 
 ---
 
